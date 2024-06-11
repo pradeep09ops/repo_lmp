@@ -1,1 +1,2 @@
 This is the line one and first initial commit in master branch
+This is the second line being added in the main branch
